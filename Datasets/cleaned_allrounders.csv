@@ -1,0 +1,47 @@
+#,Player,Team,Abbr,Capped,Status,Price_Cr,Base_Price_Cr,Bat_MAT,Bat_INN,RUNS,BF,NO,HS,Bat_AVG,Bat_SR,HUNDREDS,FIFTIES,FOURS,SIXES,Bowl_MAT,OVERS,Bowl_RUNS,WKTS,BBI,Bowl_AVG,ECON,Bowl_SR,FOUR_WKTS,FIVE_WKTS,BBI_runs,BBI_wickets
+1,Venkatesh Iyer,Kolkata Knight Riders,KKR,Capped,Auctioned,23.75,2.0,11.0,7.0,142.0,102.0,0.0,60.0,20.29,139.22,0.0,1.0,15.0,4.0,,,,,-,,,,,,,
+2,Yashasvi Jaiswal,Rajasthan Royals,RR,Retained,Retained,18.0,,14.0,14.0,559.0,350.0,1.0,75.0,43.0,159.71,0.0,6.0,60.0,28.0,,,,,-,,,,,,,
+3,Pat Cummins,Sunrisers Hyderabad,SRH,Retained,Retained,18.0,,14.0,9.0,97.0,58.0,5.0,22.0,24.25,167.24,0.0,0.0,6.0,7.0,14.0,49.4,450.0,16.0,19/3,28.12,9.06,18.62,0.0,0.0,19.0,3.0
+4,Ravindra Jadeja,Chennai Super Kings,CSK,Retained,Retained,18.0,,14.0,14.0,301.0,222.0,5.0,77.0,33.44,135.59,0.0,2.0,25.0,10.0,14.0,37.5,324.0,10.0,17/2,32.4,8.56,22.7,0.0,0.0,17.0,2.0
+5,Axar Patel,Delhi Capitals,DC,Retained,Retained,16.5,,13.0,11.0,263.0,167.0,1.0,43.0,26.3,157.49,0.0,0.0,23.0,15.0,,,,,-,,,,,,,
+6,Hardik Pandya,Mumbai Indians,MI,Retained,Retained,16.35,,15.0,12.0,224.0,137.0,3.0,48.0,24.89,163.5,0.0,0.0,18.0,13.0,15.0,46.0,379.0,17.0,45/4,22.29,8.23,16.23,1.0,0.0,45.0,4.0
+7,Riyan Parag,Rajasthan Royals,RR,Retained,Retained,14.0,,14.0,15.0,397.0,238.0,2.0,95.0,30.54,166.81,0.0,1.0,28.0,27.0,14.0,20.0,170.0,3.0,12/1,56.66,8.5,40.0,0.0,0.0,12.0,1.0
+8,Abhishek Sharma,Sunrisers Hyderabad,SRH,Retained,Retained,14.0,,14.0,13.0,439.0,227.0,0.0,141.0,33.77,193.39,1.0,2.0,46.0,28.0,,,,,-,,,,,,,
+9,Andre Russell,Kolkata Knight Riders,KKR,Retained,Retained,12.0,,13.0,10.0,167.0,102.0,1.0,57.0,18.56,163.73,0.0,1.0,16.0,14.0,13.0,18.1,217.0,8.0,21/2,27.12,11.94,13.62,0.0,0.0,21.0,2.0
+10,Varun Chakravarthy,Kolkata Knight Riders,KKR,Retained,Retained,12.0,,13.0,1.0,1.0,1.0,1.0,1.0,1.0,100.0,0.0,0.0,0.0,0.0,13.0,50.0,383.0,17.0,22/3,22.52,7.66,17.64,0.0,0.0,22.0,3.0
+11,Shivam Dube,Chennai Super Kings,CSK,Retained,Retained,12.0,,14.0,14.0,357.0,270.0,3.0,50.0,32.45,132.22,0.0,1.0,22.0,21.0,,,,,-,,,,,,,
+12,Marcus Stoinis,Punjab Kings,PBKS,Capped,Auctioned,11.0,2.0,14.0,11.0,160.0,86.0,5.0,44.0,26.67,186.05,0.0,0.0,8.0,15.0,13.0,14.1,175.0,1.0,14/1,175.0,12.35,85.0,0.0,0.0,14.0,1.0
+13,Ravichandran Ashwin,Chennai Super Kings,CSK,Capped,Auctioned,9.75,2.0,9.0,4.0,33.0,30.0,0.0,13.0,8.25,110.0,0.0,0.0,3.0,1.0,9.0,31.0,283.0,7.0,41/2,40.42,9.12,26.57,0.0,0.0,41.0,2.0
+14,Liam Livingstone,Royal Challengers Bengaluru,RCB,Capped,Auctioned,8.75,2.0,10.0,8.0,112.0,84.0,1.0,54.0,16.0,133.33,0.0,1.0,4.0,9.0,10.0,9.0,76.0,2.0,28/2,38.0,8.44,27.0,0.0,0.0,28.0,2.0
+15,Sai Sudharsan,Gujarat Titans,GT,Retained,Retained,8.5,,15.0,15.0,759.0,486.0,1.0,108.0,54.21,156.17,1.0,6.0,88.0,21.0,,,,,-,,,,,,,
+16,Tilak Varma,Mumbai Indians,MI,Retained,Retained,8.0,,16.0,13.0,343.0,248.0,2.0,59.0,31.18,138.31,0.0,2.0,23.0,16.0,,,,,-,,,,,,,
+17,Marco Jansen,Punjab Kings,PBKS,Capped,Auctioned,7.0,1.25,15.0,8.0,75.0,63.0,4.0,34.0,18.75,119.05,0.0,0.0,3.0,4.0,14.0,47.1,434.0,16.0,17/3,27.12,9.2,17.68,0.0,0.0,17.0,3.0
+18,Nitish Kumar Reddy,Sunrisers Hyderabad,SRH,Retained,Retained,6.0,,13.0,11.0,182.0,153.0,3.0,32.0,22.75,118.95,0.0,0.0,16.0,4.0,13.0,5.0,47.0,2.0,13/1,23.5,9.4,15.0,0.0,0.0,13.0,1.0
+19,Shashank Singh,Punjab Kings,PBKS,Retained,Retained,5.5,,18.0,14.0,350.0,228.0,7.0,61.0,50.0,153.51,0.0,3.0,23.0,18.0,,,,,-,,,,,,,
+20,Will Jacks,Mumbai Indians,MI,Capped,Auctioned,5.25,2.0,13.0,11.0,233.0,172.0,1.0,53.0,23.3,135.47,0.0,1.0,22.0,11.0,13.0,14.0,120.0,6.0,14/2,20.0,8.57,14.0,0.0,0.0,14.0,2.0
+21,Wanindu Hasaranga,Rajasthan Royals,RR,Capped,Auctioned,5.25,2.0,,,,,,,,,,,,,15.0,35.0,342.0,14.0,36/5,24.42,9.77,15.0,0.0,1.0,36.0,5.0
+22,Naman Dhir,Mumbai Indians,MI,Uncapped,Auctioned,5.25,0.3,16.0,12.0,252.0,138.0,4.0,46.0,31.5,182.61,0.0,0.0,25.0,13.0,,,,,-,,,,,,,
+23,Glenn Maxwell,Punjab Kings,PBKS,Capped,Auctioned,4.2,2.0,7.0,6.0,48.0,49.0,0.0,30.0,8.0,97.96,0.0,0.0,5.0,1.0,7.0,13.0,110.0,4.0,05/1,27.5,8.46,19.5,0.0,0.0,5.0,1.0
+24,Rachin Ravindra,Chennai Super Kings,CSK,Capped,Auctioned,4.0,1.5,8.0,8.0,191.0,149.0,1.0,65.0,27.29,128.19,0.0,1.0,18.0,4.0,,,,,-,,,,,,,
+25,Ayush Badoni,Lucknow Super Giants,LSG,Retained,Retained,4.0,,14.0,11.0,329.0,222.0,1.0,74.0,32.9,148.2,0.0,2.0,27.0,14.0,14.0,1.4,13.0,2.0,04/2,6.5,7.8,5.0,0.0,0.0,4.0,2.0
+26,Shahrukh Khan,Gujarat Titans,GT,Retained,Retained,4.0,,15.0,11.0,179.0,100.0,5.0,57.0,29.83,179.0,0.0,1.0,11.0,13.0,15.0,1.0,13.0,1.0,13/1,13.0,13.0,6.0,0.0,0.0,13.0,1.0
+27,Rahul Tewatia,Gujarat Titans,GT,Retained,Retained,4.0,,15.0,11.0,99.0,59.0,4.0,24.0,14.14,167.8,0.0,0.0,6.0,7.0,,,,,-,,,,,,,
+28,Ramandeep Singh,Kolkata Knight Riders,KKR,Retained,Retained,4.0,,11.0,7.0,47.0,35.0,2.0,22.0,9.4,134.29,0.0,0.0,1.0,4.0,,,,,-,,,,,,,
+29,Mitchell Marsh,Lucknow Super Giants,LSG,Capped,Auctioned,3.4,2.0,13.0,13.0,627.0,383.0,0.0,117.0,48.23,163.71,1.0,6.0,56.0,37.0,,,,,-,,,,,,,
+30,Washington Sundar,Gujarat Titans,GT,Capped,Auctioned,3.2,2.0,6.0,5.0,133.0,80.0,0.0,49.0,26.6,166.25,0.0,0.0,10.0,7.0,12.0,34.0,288.0,5.0,19/2,57.6,8.47,40.8,0.0,0.0,19.0,2.0
+31,Sherfane Rutherford,Gujarat Titans,GT,Capped,Auctioned,2.6,1.5,13.0,11.0,291.0,185.0,2.0,46.0,32.33,157.3,0.0,0.0,22.0,18.0,,,,,-,,,,,,,
+32,Jacob Bethell,Royal Challengers Bengaluru,RCB,Capped,Auctioned,2.6,1.25,2.0,2.0,67.0,39.0,0.0,55.0,33.5,171.79,0.0,1.0,9.0,3.0,,,,,-,,,,,,,
+33,Azmatullah Omarzai,Punjab Kings,PBKS,Capped,Auctioned,2.4,1.5,10.0,5.0,57.0,41.0,1.0,21.0,14.25,139.02,0.0,0.0,6.0,3.0,9.0,27.0,279.0,8.0,33/2,34.87,10.33,20.25,0.0,0.0,33.0,2.0
+34,Sam Curran,Chennai Super Kings,CSK,Capped,Auctioned,2.4,2.0,5.0,5.0,114.0,84.0,0.0,88.0,22.8,135.71,0.0,1.0,11.0,4.0,5.0,12.0,133.0,1.0,34/1,133.0,11.08,72.0,0.0,0.0,34.0,1.0
+35,Shahbaz Ahmed,Lucknow Super Giants,LSG,Capped,Auctioned,2.4,1.0,3.0,1.0,9.0,8.0,0.0,9.0,9.0,112.5,0.0,0.0,1.0,0.0,3.0,8.3,102.0,1.0,41/1,102.0,12.0,51.0,0.0,0.0,41.0,1.0
+36,Mitchell Santner,Mumbai Indians,MI,Capped,Auctioned,2.0,2.0,13.0,8.0,40.0,33.0,6.0,18.0,20.0,121.21,0.0,0.0,2.0,3.0,13.0,39.3,313.0,10.0,11/3,31.3,7.92,23.7,0.0,0.0,11.0,3.0
+37,Moeen Ali,Kolkata Knight Riders,KKR,Capped,Auctioned,2.0,2.0,6.0,2.0,5.0,14.0,0.0,5.0,2.5,35.71,0.0,0.0,0.0,0.0,6.0,16.0,136.0,6.0,23/2,22.66,8.5,16.0,0.0,0.0,23.0,2.0
+38,Deepak Hooda,Chennai Super Kings,CSK,Capped,Auctioned,1.7,0.75,7.0,5.0,31.0,41.0,0.0,22.0,6.2,75.61,0.0,0.0,2.0,1.0,,,,,-,,,,,,,
+39,Romario Shepherd,Royal Challengers Bengaluru,RCB,Capped,Auctioned,1.5,1.5,8.0,3.0,70.0,24.0,1.0,53.0,35.0,291.67,0.0,1.0,5.0,7.0,8.0,14.0,151.0,6.0,14/2,25.16,10.78,14.0,0.0,0.0,14.0,2.0
+40,Jamie Overton,Chennai Super Kings,CSK,Capped,Auctioned,1.5,1.5,3.0,2.0,15.0,7.0,2.0,11.0,15.0,214.29,0.0,0.0,1.0,1.0,,,,,-,,,,,,,
+41,Arshad Khan,Gujarat Titans,GT,Capped,Auctioned,1.3,,9.0,4.0,23.0,19.0,2.0,20.0,11.5,121.05,0.0,0.0,0.0,3.0,9.0,21.0,217.0,6.0,07/1,36.16,10.33,21.0,0.0,0.0,7.0,1.0
+42,Vijay Shankar,Chennai Super Kings,CSK,Uncapped,Auctioned,1.2,0.3,6.0,5.0,118.0,91.0,2.0,69.0,39.33,129.67,0.0,1.0,8.0,3.0,,,,,-,,,,,,,
+43,Kamindu Mendis,Sunrisers Hyderabad,SRH,Capped,Auctioned,0.75,0.75,5.0,5.0,92.0,69.0,1.0,32.0,23.0,133.33,0.0,0.0,7.0,2.0,5.0,7.0,60.0,2.0,04/1,30.0,8.57,21.0,0.0,0.0,4.0,1.0
+44,Suryansh Shedge,Punjab Kings,PBKS,Uncapped,Auctioned,0.3,0.3,5.0,3.0,7.0,11.0,0.0,4.0,2.33,63.64,0.0,0.0,0.0,0.0,,,,,-,,,,,,,
+45,Prince Yadav,Lucknow Super Giants,LSG,Uncapped,Auctioned,0.3,0.3,6.0,2.0,5.0,10.0,2.0,4.0,5.0,50.0,0.0,0.0,0.0,0.0,6.0,22.5,225.0,3.0,29/1,75.0,9.85,45.66,0.0,0.0,29.0,1.0
+46,Musheer Khan,Punjab Kings,PBKS,Uncapped,Auctioned,0.3,0.3,1.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,27.0,1.0,27/1,27.0,13.5,12.0,0.0,0.0,27.0,1.0
